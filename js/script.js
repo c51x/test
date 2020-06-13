@@ -9,8 +9,6 @@
 // var obj = {
 //     'nameReal': 'Vasia'
 
-
-
 // };
 // let person = {
 //     name: "Iulius",
